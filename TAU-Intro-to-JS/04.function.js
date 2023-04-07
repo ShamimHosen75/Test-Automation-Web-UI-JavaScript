@@ -15,3 +15,8 @@ console.log(product(5,15)); //75
 // Another Examples 
 const bigProduct = product(5353, 134534);
 console.log(bigProduct);
+
+
+setTimeout (function (){
+  console.log("Hey, I am an Anonymous!");
+}, 1000);
