@@ -16,7 +16,10 @@ console.log(product(5,15)); //75
 const bigProduct = product(5353, 134534);
 console.log(bigProduct);
 
-
+// Anonymous Function
 setTimeout (function (){
   console.log("Hey, I am an Anonymous!");
 }, 1000);
+
+// Arrow Function
+setTimeout(() => console.log("Hey! You rock!"), 1000);
