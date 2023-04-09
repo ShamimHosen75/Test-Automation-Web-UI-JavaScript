@@ -22,4 +22,4 @@ setTimeout (function (){
 }, 1000);
 
 // Arrow Function
-setTimeout(() => console.log("Hey! You rock!"), 1000);
+setTimeout(() => console.log("Hey, Rock!"), 1000);
